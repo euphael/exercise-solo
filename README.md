@@ -13,7 +13,7 @@
   
 *Como fazer funcionar com a nova política de segurança do google:*
 1. Ative a segunda etapa ativada no email do remetente.
-2. Pesquise por apps na página de segurança da sua conta gmail e clique em senhas de apps.
+2. Pesquise por apps na página de segurança da sua conta gmail e acesse "senhas de apps".
 3. Crie uma nova senha para utilizar no campo "Senha da aplicação"
 
 <div style="text-align: center;">
